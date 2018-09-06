@@ -34,4 +34,3 @@ Includes topics:
 	Deep Learning:
 		Artificial Neural Networks
 		Convolutional Neural Networks
-		

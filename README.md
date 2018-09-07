@@ -1,15 +1,15 @@
 # Machine Learning
 
 Includes topics:
-	* Data Preprocessing
-	* Regression:
+	1. Data Preprocessing
+	2. Regression:
 		* Simple
 		* Multiple
 		* Polynomial
 		* Support Vector
 		* Decision Tree
 		* Random Forest
-	* Classification:
+	3. Classification:
 		* Logistic
 		* Support Vector Machine
 		* Kernel SVM
@@ -17,20 +17,20 @@ Includes topics:
 		* Naive Bayes
 		* Decision Tree
 		* Random Forest
-	* Clustering:
+	4. Clustering:
 		* K-Means
 		* Hierarchical
-	* Association Rule:
+	5. Association Rule:
 		* Apriori
 		* Eclat
-	* Reinforcement Learning:
+	6. Reinforcement Learning:
 		* Thompson Sampling
 		* Upper Confidence Bound
-	* Natural Language Processing
-	* Dimensionality Reduction:
+	7. Natural Language Processing
+	8. Dimensionality Reduction:
 		* Principal Componen Analysis
 		* Kernel PCA
 		* Linear Discriminant Analysis
-	* Deep Learning: :metal:
+	9. Deep Learning: :metal:
 		* Artificial Neural Networks
 		* Convolutional Neural Networks
